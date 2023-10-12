@@ -14,7 +14,11 @@ subprojects {
     group = "com.amdev.dating"
     version = "1.0-SNAPSHOT"
 
-    tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
-        kotlinOptions.jvmTarget = "17"
-    }
+//    tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
+//        kotlinOptions.jvmTarget = "17"
+//    }
+}
+
+kotlin {
+    jvmToolchain(8)
 }
