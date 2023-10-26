@@ -13,6 +13,8 @@
 
 1. Owner (userId)
 2. Name  (String)
+3. Gender (male|female|null)
+4. Description (String)
 3. Contact (String)
 4. Interests (List<Interest>)
 
