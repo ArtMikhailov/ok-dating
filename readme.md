@@ -34,7 +34,7 @@
 
 ## Сущности
 
-[Целевая аудитория](./docs/04-architecture/03-api.md)
+[Cущности и апи](./docs/04-architecture/03-api.md)
 
 
 ## Документация
