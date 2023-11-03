@@ -1,4 +1,4 @@
-package ru.otus.otuskotlin.marketplace.blackbox.docker
+package com.amdev.dating.blackbox.docker
 
 import com.amdev.blackbox.fixture.docker.AbstractDockerCompose
 

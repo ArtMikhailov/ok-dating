@@ -2,7 +2,7 @@ package com.amdev.blackbox.test
 
 import fixture.client.RestClient
 import io.kotest.core.annotation.Ignored
-import ru.otus.otuskotlin.marketplace.blackbox.docker.WiremockDockerCompose
+import com.amdev.dating.blackbox.docker.WiremockDockerCompose
 import com.amdev.blackbox.fixture.BaseFunSpec
 import com.amdev.blackbox.fixture.docker.DockerCompose
 
